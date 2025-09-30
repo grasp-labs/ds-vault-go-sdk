@@ -1,10 +1,10 @@
 # ds-vault-go-sdk — SDK for the DS Vault service in Go
 
-![Build](https://github.com/grasp-labs/ds-go-vault-sdk-go/actions/workflows/ci.yml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/grasp-labs/ds-go-vault-sdk-go)](https://goreportcard.com/report/github.com/grasp-labs/ds-go-vault-sdk-go)
-[![codecov](https://codecov.io/gh/grasp-labs/ds-go-vault-sdk-go/branch/main/graph/badge.svg)](https://codecov.io/gh/grasp-labs/ds-go-vault-sdk-go)
-[![Latest tag](https://img.shields.io/github/v/tag/grasp-labs/ds-go-vault-sdk-go?sort=semver)](https://github.com/grasp-labs/ds-go-vault-sdk-go/tags)
-![License](https://img.shields.io/github/license/grasp-labs/ds-go-vault-sdk-go?cacheSeconds=60)
+![Build](https://github.com/grasp-labs/ds-vault-go-sdk/actions/workflows/ci.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/grasp-labs/ds-vault-go-sdk)](https://goreportcard.com/report/github.com/grasp-labs/ds-vault-go-sdk)
+[![codecov](https://codecov.io/gh/grasp-labs/ds-vault-go-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/grasp-labs/ds-vault-go-sdk)
+[![Latest tag](https://img.shields.io/github/v/tag/grasp-labs/ds-vault-go-sdk?sort=semver)](https://github.com/grasp-labs/ds-vault-go-sdk/tags)
+![License](https://img.shields.io/github/license/grasp-labs/ds-vault-go-sdk?cacheSeconds=60)
 
 DS Vault Go SDK
 
